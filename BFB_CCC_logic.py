@@ -384,7 +384,7 @@ def main(data):
     })
 
     # Calculate total score (assuming equal weights for individual scores)
-    total_score = individual_scores.mean(axis=1)
+    total_score = individual_scores.sum(axis=1)
 
 
     # Combine all scores into a single DataFrame
