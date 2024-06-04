@@ -6,6 +6,8 @@ The ONDC presents Build for Bharat was created with the purpose of collaborating
 
 Our solution aims at solving the Catalogue Scoring problem statement. We have created a mechanism that assigns scores to e-commerce product catalogues based on the following three factors:
 
-Compliance - Ensuring the catalogue complies with the applicable laws (e.g.: Labelling and display regulations under various statutes.
-Correctness - Authenticity of the catalogue (e.g.: appropriate use of branding)
-Completeness - The Catalogue should provide some minimum attributes such that the buyer can understand the product features clearly.
+- Compliance - Ensuring the catalogue complies with the applicable laws (e.g.: Labelling and display regulations under various statutes).
+
+- Correctness - Authenticity of the catalogue (e.g.: appropriate use of branding)
+
+- Completeness - The catalogue should provide some minimum attributes such that the buyer can understand the product features clearly.
